@@ -1,0 +1,54 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+<suite name="PH2 Test" parallel="tests" verbose="1" thread-count="1" annotations="JDK">
+<!-- <test name="Create WorkOrder in Mobile Si ios">
+        <parameter name="ExecutionMode" value="SAUCELABS" />
+        <parameter name="MobileToolName" value="APPIUM" />
+        <parameter name="MobileExecutionPlatform" value="IOS" />
+        <parameter name="DeviceName" value="sir" />
+        <classes>
+            <class name="com.cucumbercraft.runners.RunnersiIOS" />
+        </classes>
+    </test>
+    <test name="Cancel order created  Si mobil ios">
+        <parameter name="ExecutionMode" value="LOCAL" />
+        <parameter name="BrowserName" value="SAUCELABS" />
+        <classes>
+            <class name="com.cucumbercraft.runners.RunnerCancelOrder_simobile" />
+        </classes>
+    </test>  
+    <test name="Create WorkOrder in iMMFM">
+        <parameter name="ExecutionMode" value="SAUCELABS" />
+        <parameter name="MobileToolName" value="APPIUM" />
+        <parameter name="MobileExecutionPlatform" value="IOS" />
+        <parameter name="DeviceName" value="CFG" />
+        <classes>
+            <class name="com.cucumbercraft.runners.RunneriMFM" />
+        </classes>
+    </test> 
+       <test name="Cancel order created iMFM">
+        <parameter name="ExecutionMode" value="LOCAL" />
+        <parameter name="BrowserName" value="SAUCELABS" />
+        <classes>
+            <class name="com.cucumbercraft.runners.RunnerCancelOrder_amfm" />
+        </classes>
+    </test>
+         <test name="Create Order CGF application">
+        <parameter name="ExecutionMode" value="LOCAL" />
+        <parameter name="BrowserName" value="SAUCELABS" />
+        <classes>
+            <class name="com.cucumbercraft.runners.ph3_Runner" />
+        </classes>
+    </test> -->
+      <test name="Create WorkOrder in iMFM">
+        <parameter name="ExecutionMode" value="SAUCELABS" />
+        <parameter name="MobileToolName" value="APPIUM" />
+        <parameter name="MobileExecutionPlatform" value="IOS" />
+        <parameter name="DeviceName" value="CFG" />
+        <classes>
+            <class name="com.cucumbercraft.runners.RunneriMFM" />
+        </classes>
+    </test>	
+</suite>
+
+
+

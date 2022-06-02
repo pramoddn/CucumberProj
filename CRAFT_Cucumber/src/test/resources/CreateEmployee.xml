@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+<suite name="Phase 3" parallel="tests" verbose="1" thread-count="1" annotations="JDK">
+<!--<listeners>
+    <listener class-name = "com.cucumbercraft.framework.CustomReporter"></listener>
+    </listeners>-->	   	   
+	<test name="Create Employee in CFG application">
+        <parameter name="ExecutionMode" value="LOCAL" />
+        <parameter name="BrowserName" value="CHROME" />
+        <classes>
+            <class name="com.cucumbercraft.runners.ph3_Employee_Create_Runner" />
+        </classes>
+    </test>  	   
+</suite>
+
+
+

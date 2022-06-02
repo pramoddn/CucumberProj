@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+<suite name="Mobile Health Checks" parallel="tests" verbose="1" thread-count="4" annotations="JDK">
+    <test name="Login and Logout in aMFM app">
+        <parameter name="ExecutionMode" value="MOBILE" />
+        <parameter name="MobileToolName" value="APPIUM" />
+        <parameter name="MobileExecutionPlatform" value="ANDROID" />
+        <parameter name="DeviceName" value="CFG" />
+        <classes>
+            <class name="com.cucumbercraft.runners.MobileHealthChecks.RunneraMFM_HealthChecks" />
+        </classes>
+    </test>
+</suite>
+
+
+

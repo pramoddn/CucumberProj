@@ -1,0 +1,52 @@
+{
+	"386": {
+		"DatabaseId": "386",
+		"env": "qa",
+		"UserSI": "AutomatedTester@mail.com",
+		"PasswordSI": "Automation!2020",
+		"UserVAWS": "automatedtestervaws",
+		"PasswordVAWS": "Automation!2020",
+		"UserCFG": "AutomatedTester",
+		"PasswordCFG": "Automation!2020",
+		"UserAMFM": "AutomatedTester",
+		"PasswordAMFM": "QXV0b21hdGlvbiEyMDIw",
+		"VWSUser": "VendorUser001",
+		"VWSPswd": "mainstream2"
+	},
+	"344": {
+		"DatabaseId": "344",
+		"env": "qa",
+		"UserSI": "AutomatedTester@mail.com",
+		"PasswordSI": "Automation!2021",
+		"UserVAWS": "automatedtestervaws",
+		"PasswordVAWS": "Automation!2021",
+		"UserCFG": "AutomatedTester",
+		"PasswordCFG": "Automation!2021",
+		"UserAMFM": "AutomatedTester",
+		"PasswordAMFM": "Automation!2021"
+	},
+	"388": {
+		"DatabaseId": "388",
+		"env": "uat",
+		"UserSI": "AutomatedTester@mail.com",
+		"PasswordSI": "Automation!2020",
+		"UserVAWS": "automatedtestervaws",
+		"PasswordVAWS": "Automation!2020",
+		"UserCFG": "AutomatedTester",
+		"PasswordCFG": "Automation!2020",
+		"UserAMFM": "AutomatedTester",
+		"PasswordAMFM": "Automation!2020"
+	},
+	"526": {
+		"DatabaseId": "526",
+		"env": "uat",
+		"UserSI": "AutomatedTester@mail.com",
+		"PasswordSI": "RL!6NcBSdGb",
+		"UserVAWS": "automatedtestervaws",
+		"PasswordVAWS": "Welcome11!",
+		"UserCFG": "AutomatedTester",
+		"PasswordCFG": "Welcome11!",
+		"UserAMFM": "AutomatedTester",
+		"PasswordAMFM": "Welcome11!"
+	}
+}
