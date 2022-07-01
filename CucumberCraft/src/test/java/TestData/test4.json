@@ -1,0 +1,10 @@
+{
+    "DatabaseId":  "386",
+    "env":  "qa",
+    "UserSI":  "AutomatedTester@mail.com",
+    "PasswordSI":  "Automation!2020",
+    "UserVAWS":  "automatedtestervaws",
+    "PasswordVAWS":  "Automation!2020",
+    "UserCFG":  "AutomatedTester",
+    "PasswordCFG":  "Automation!2020"
+}

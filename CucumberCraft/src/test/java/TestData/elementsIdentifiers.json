@@ -1,0 +1,32 @@
+{
+	"EquipmentTag": {
+		"Tag#":"TagCountVal",
+		"EquipGroup": "TagEquipGroupVal",
+		"EquipSubGroup": "TagEquipStyleVal",
+		"Part#": "TagPartNumVal",
+		"Model#": "TagModelVal",
+		"PartDesc": "TagPartDescVal",
+		"InstalledDesc": "TagInstallDescVal",
+		"Serial #": "TagSerialVal",
+		"TagDetails": "TagDetailsVal",
+		"TagNotes": "TagNotesVal",
+		"InstalledDate": "TagInstallDateVal",
+		"Part Warranty Date": "TagPartWarrDateVal",
+		"Labor Warranty Date": "TagLaborWarrDateVal"
+	},
+	"EquipmentTagDetails": {
+		"Group Name": "DetGroupNameVal",
+		"Tag #": "TagNumberTxt",
+		"Installed Description": "DetInstallDescriptionVal",
+		"Part #": "DetPartNumberVal",
+		"Installed Date": "DetInstalledDateVal",
+		"Part Description": "DetPartDescriptionVal",
+		"Mfg": "DetMakeVal",
+		"Model#": "DetaModelVal",
+		"Serial #": "DetSerialNumberVal",
+		"Warranty - Parts": "DetWarrantyPartsVal",
+		"Warranty - Labor": "DetWarrantyLaborVal",
+		"Tag Details": "DetTagDetailsVal",
+		"Location": "DetLocationVal"
+	}
+}

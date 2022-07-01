@@ -1,0 +1,11 @@
+<extentreports>
+  <configuration>   
+    <theme>standard</theme>
+    <encoding>UTF-8</encoding>
+   <protocol>https</protocol>
+   <documentTitle>CBRE -Service Insight Reporting</documentTitle>    
+     <reportName>CBRE -Service Insight Reporting</reportName>   
+    <dateFormat>yyyy-MM-dd</dateFormat>  
+    <timeFormat>HH:mm:ss</timeFormat>    
+     </configuration>
+</extentreports>

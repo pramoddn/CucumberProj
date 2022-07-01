@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+<suite name="SOX" parallel="tests" verbose="1" thread-count="1" annotations="JDK">
+<!--<listeners>
+    <listener class-name = "com.cucumbercraft.framework.CustomReporter"></listener>
+    </listeners>-->	   	   
+<test name="Smoke suite Execution for SOX CFG and VAWS">
+        <parameter name="ExecutionMode" value="LOCAL" />
+        <parameter name="BrowserName" value="SAUCELABS" />
+        <classes>
+            <class name="com.cucumbercraft.runners.RunnerSox" />
+        </classes>
+    </test>  	   
+
+ 
+</suite>
+
+
+
